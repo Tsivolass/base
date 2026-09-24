@@ -1,0 +1,8 @@
+*.cfg
+/cache/
+/resources/\[local\]/
+/db/
+/logs/
+/local-database/
+.console-history
+.id
